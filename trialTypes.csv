@@ -1,0 +1,13 @@
+text,bgColor,corrAns,congruent
+RED,RED,left,cong
+RED,RED,left,cong
+RED,GREEN,left,incong
+RED,BLUE,left,incong
+GREEN,RED,down,incong
+GREEN,GREEN,down,cong
+GREEN,GREEN,down,cong
+GREEN,BLUE,down,incong
+BLUE,RED,right,incong
+BLUE,GREEN,right,incong
+BLUE,BLUE,right,cong
+BLUE,BLUE,right,cong
